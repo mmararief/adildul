@@ -132,7 +132,7 @@ export default function Home() {
               transition={{ delay: 0.2, duration: 0.5 }}
             >
               <p className="text-lg text-gray-800 mb-4">
-                Selamat Ulang Tahun yang ke-19, Adila, semoga dengan
+                Selamat Ulang Tahun yang ke-19 Sayangku, semoga dengan
                 bertambahnya usia, kamu semakin dekat dengan kebahagiaan,
                 kesehatan, dan kesuksesan. gak berasa aku udah ketiga kalinya
                 merayakan ulang tahun kamu. dari tahun ke tahun, kamu semakin
